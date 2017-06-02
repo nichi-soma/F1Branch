@@ -20,6 +20,9 @@ namespace SomaConsole
             Console.WriteLine("Random Value : " + randomValue);
 
             Console.WriteLine("test for uploading to feature branch");
+
+            Console.WriteLine("test for uploading second time to feature branch");
+
             Console.Read();
         }
         private static DateTime JstNow()
