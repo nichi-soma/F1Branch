@@ -12,12 +12,13 @@ namespace SomaConsole
         {
             // Displaying Tokyo Standard Time
             //Console.WriteLine(" Current time in Tokyo is : " + JstNow().ToString());
-            
+            // hey i am dev-nis
 
             // Random sample 
             Random cRandom = new System.Random();            
             var randomValue = cRandom.Next(999999).ToString();
             Console.WriteLine("Random Value : " + randomValue);
+
 
             Console.Read();
         }
