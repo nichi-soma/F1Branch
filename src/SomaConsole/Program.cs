@@ -28,6 +28,11 @@ namespace SomaConsole
             Console.WriteLine("test for uploading 3 time to feature branch");
             //asdfasdfasfafasfsad
 
+
+            Console.WriteLine("test for uploading 4 time to feature branch");
+            Console.WriteLine("test for uploading 5 time to feature branch");
+            Console.WriteLine("test for uploading 6 time to feature branch");
+
             Console.Read();
         }
         private static DateTime JstNow()
