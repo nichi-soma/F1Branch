@@ -19,6 +19,14 @@ namespace SomaConsole
             var randomValue = cRandom.Next(999999).ToString();
             Console.WriteLine("Random Value : " + randomValue);
 
+            Console.WriteLine("test for uploading to feature branch");
+
+            Console.WriteLine("test for uploading second time to feature branch");
+
+            Console.WriteLine("test for uploading 1 time to feature branch");
+            Console.WriteLine("test for uploading 2 time to feature branch");
+            Console.WriteLine("test for uploading 3 time to feature branch");
+            //asdfasdfasfafasfsad
 
             Console.Read();
         }
