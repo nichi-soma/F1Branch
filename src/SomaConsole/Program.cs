@@ -19,6 +19,7 @@ namespace SomaConsole
             var randomValue = cRandom.Next(999999).ToString();
             Console.WriteLine("Random Value : " + randomValue);
 
+            Console.WriteLine("test for uploading to feature branch");
             Console.Read();
         }
         private static DateTime JstNow()
