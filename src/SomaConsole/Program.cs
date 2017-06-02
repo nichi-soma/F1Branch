@@ -28,11 +28,14 @@ namespace SomaConsole
             Console.WriteLine("test for uploading 3 time to feature branch");
             //asdfasdfasfafasfsad
 
+            // SOMA COMMENT
             // COMMENT BY YESHWANTH
 
             Console.WriteLine("test for uploading 4 time to feature branch");
             Console.WriteLine("test for uploading 5 time to feature branch");
             Console.WriteLine("test for uploading 6 time to feature branch");
+
+            Console.WriteLine("test for uploading 7 time to feature branch");
 
             Console.Read();
         }
